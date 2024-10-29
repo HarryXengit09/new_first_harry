@@ -1,1 +1,2 @@
-Hey , There this is my first git tutorial , and I am so excited to push an file into my git repository. 
+Hey , There this is my first git tutorial , and I am so excited to push an file into my git repository. This is my first time I learning git, I think the further journey is going to be so enchanting to me. 
+
